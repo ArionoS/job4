@@ -22,4 +22,5 @@ class PostSeeder extends Seeder
             'draft' => 0
         ]);
     }
+
 }
